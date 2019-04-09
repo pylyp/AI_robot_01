@@ -160,6 +160,7 @@ colors = [['R','G','G','R','R'],
           ['R','R','G','G','R'],
           ['R','R','R','R','R']]
 measurements = ['G','G','G','G','G']
+motions = [[0,0],[0,1],[1,0],[1,0],[0,1]]
 mosensor_right = 0.7
 p_move = 0.8
 correct_answer = (
